@@ -133,9 +133,18 @@ Así mismo vas a poder encontrar modelos que se puedan ajustar mejor a cada tipo
 
 </details>
 
+
+## Uso de LLM's
+
 <details>
 <summary><strong>Arquitectura Transformers 🤖</strong></summary>
 
 [Mira la documentación de la Arquitectura Transformers 🤓☝️](https://github.com/binarybrains-club/HugginFace-Community/blob/main/Transformers/arquitectura_transformers.ipynb)
 
 </details>
+
+<details>
+<summary><strong>Función Pipeline Hugging Face 🤗</strong></summary>
+
+[Mira la documentación de la Función Pipeline de HG 🤓☝️](https://github.com/binarybrains-club/HugginFace-Community/blob/main/Transformers/pipeline_function.ipynb)
+
