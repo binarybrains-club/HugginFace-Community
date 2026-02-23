@@ -1,5 +1,5 @@
 # HugginFace-Community
-Se detallarán los pasos para unirse a la comunidad de Hugging Face 🤗 y las primeras acciones para aprender a navegar en la plataforma.
+Se detallarán los pasos para unirse a la comunidad de Hugging Face 🤗 y las primeras acciones para aprender a navegar en la plataforma, así como para conocer y aplicar las bases teóricas de los LLM's.
 
 Únete a nuestra gran Comunidad de Hugging Face donde estaremos creando, desarrollando y experimentando con modelos de Fundacionales, Machine Learning y Deep Learning!
 
@@ -130,5 +130,12 @@ Así mismo vas a poder encontrar modelos que se puedan ajustar mejor a cada tipo
 
 <img width="465" height="303" alt="image" src="https://github.com/user-attachments/assets/d535c7b6-38bf-49cb-9c54-47e3b23c136d" />
 
+
+</details>
+
+<details>
+<summary><strong>Arquitectura Transformers 🤖</strong></summary>
+
+[Mira la documentación de la Arquitectura Transformers 🤓☝️](https://github.com/binarybrains-club/HugginFace-Community/blob/main/Transformers/arquitectura_transformers.ipynb)
 
 </details>
